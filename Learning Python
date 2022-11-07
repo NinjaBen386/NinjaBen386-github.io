@@ -1,0 +1,20 @@
+We learned to make a shape using commands in Python
+
+from turtle import exitonclick, forward, left #, #
+
+forward(120)
+left(90)
+forward(120)
+left(90)
+forward(120)
+left(90)
+forward(120)
+
+
+
+
+
+
+exitonclick()
+
+When this is run it will create a square. 
