@@ -1,1 +1,1 @@
-# NinjaBen386-github.io
+Something i found really interesting is that when i first heard of spuedocde thought that it was going to be some confusing coding that was really complex, but once i got into it i then realized that all it was was just words.
