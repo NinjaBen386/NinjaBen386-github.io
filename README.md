@@ -1,2 +1,1 @@
-My first branch is all about thtings that i thought were interesting to me or things that stuck to me during the course 
-
+During the course Roman was a big help to me and i think that he is ab absolute legend and should cintinue his lecturin
