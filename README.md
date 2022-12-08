@@ -1,1 +1,1 @@
-Research Repository about software devolopment with Roman Mitch
+Research Repository about software devolopment lecture with Roman Mitch
