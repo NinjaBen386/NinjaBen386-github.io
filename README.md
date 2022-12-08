@@ -1,5 +1,5 @@
 Below is the first coding i used to create some art based on sol lewitt that made me realize that i could do more than just make a sqaure.
-it also taught me software devolpment isn't just about making websites but also creating things using commands that would then be processed into locations for the turtle to go to.
+it also taught me software devolpment isn't just about making websites but also creating things that you can come up with because the sky is your limit. 
 
 
 from turtle import *
